@@ -56,7 +56,7 @@ Potential upgrades to improve the application:
 - Save scores using **local storage** or integrate with a backend database.
 
   **Output**
-
+<img width="1365" height="689" alt="Image" src="https://github.com/user-attachments/assets/153c8633-d423-4e39-9038-4179c2fd64c3" />
 
 This project was developed as part of my **FRONT-END DEVELOPMENT** internship at **CODTECH IT SOLUTIONS** under the mentorship of **NEELA SANTHOSH**.  
 It showcases my ability to combine structure, design, and logic to create an interactive and user-friendly web application.
