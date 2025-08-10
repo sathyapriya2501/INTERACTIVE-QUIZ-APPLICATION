@@ -56,7 +56,14 @@ Potential upgrades to improve the application:
 - Save scores using **local storage** or integrate with a backend database.
 
   **Output**
-<img width="1365" height="689" alt="Image" src="https://github.com/user-attachments/assets/153c8633-d423-4e39-9038-4179c2fd64c3" />
+<img width="1000" height="689" alt="Image" src="https://github.com/user-attachments/assets/153c8633-d423-4e39-9038-4179c2fd64c3" />
+
+<img width="1000" height="689" alt="Image" src="https://github.com/user-attachments/assets/4b11099e-c930-4b72-ba90-87a374ed5306" />
+
+<img width="1000" height="687" alt="Image" src="https://github.com/user-attachments/assets/a5a8ffc1-e212-4c96-9176-798ef986d29a" />
+
+<img width="1000" height="689" alt="Image" src="https://github.com/user-attachments/assets/a5e4e8f7-a7c5-4bf4-89a4-1c1fb6f364fa" />
+
 
 This project was developed as part of my **FRONT-END DEVELOPMENT** internship at **CODTECH IT SOLUTIONS** under the mentorship of **NEELA SANTHOSH**.  
 It showcases my ability to combine structure, design, and logic to create an interactive and user-friendly web application.
